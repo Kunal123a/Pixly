@@ -6,9 +6,7 @@ Pixly is a free and open-source Android app that lets you generate stunning, hig
 
 ## 📲 Download Now
 
-**[⬇️ Click here to download Pixly v4 APK](https://github.com/Kunal123a/Pixly/raw/main/Pixly%20v4.apk)**
-
-> ⚠️ If you're installing from a browser, your phone may ask you to allow installation from unknown sources.
+**[⬇️ Click here to download Pixly v4 APK](https://github.com/Kunal123a/Pixly/releases/tag/v4)**
 
 ---
 
